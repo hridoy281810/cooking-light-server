@@ -1,0 +1,40 @@
+// {
+//     "recipes": 
+//       {
+//         {
+//             "_id": "recipe001",
+//             "name": "Spaghetti Bolognese",
+//             "ingredients": ["spaghetti", "ground beef", "onion", "garlic", "tomato sauce", "olive oil"],
+//             "method": "1. Cook the spaghetti according to package instructions. 2. Heat olive oil in a large skillet over medium-high heat. 3. Add the ground beef and cook until browned. 4. Add the onion and garlic and cook until softened. 5. Add the tomato sauce and simmer for 10-15 minutes. 6. Serve the sauce over the spaghetti. ",
+//             "rating": 4.7
+//           },
+//           {
+//             "_id": "recipe002",
+//             "name": "Chicken Curry",
+//             "ingredients": ["chicken", "onion", "garlic", "ginger", "curry powder", "coconut milk"],
+//             "method": "1. Heat oil in a large saucepan over medium heat. 2. Add the onion, garlic, and ginger and cook until the onion is softened. 3. Add the chicken and cook until browned. 4. Add the curry powder and stir to coat the chicken. 5. Add the coconut milk and simmer for 20-25 minutes. 6. Serve with rice. ",
+//             "rating": 4.5
+//           },
+//           {
+//             "_id": "recipe003",
+//             "name": "Grilled Salmon",
+//             "ingredients": ["salmon fillet", "olive oil", "lemon", "salt", "black pepper"],
+//             "method": "1. Preheat grill to medium-high heat. 2. Brush the salmon fillet with olive oil. 3. Season with salt and black pepper. 4. Grill the salmon for 10-12 minutes, or until it flakes easily with a fork. 5. Squeeze lemon juice over the top before serving. ",
+//             "rating": 4.9
+//           },
+//       },
+//       {
+//         "id": "recipe004",
+//         "name": "Pesto Pasta",
+//         "ingredients": ["pasta", "pesto sauce", "grated parmesan cheese", "cherry tomatoes", "olive oil"],
+//         "method": "1. Cook the pasta according to package instructions. 2. Drain the pasta and return it to the pot. 3. Stir in the pesto sauce and cherry tomatoes. 4. Drizzle with olive oil and sprinkle with parmesan cheese. 5. Serve hot. ",
+//         "rating": 4.3
+//       },
+//       {
+//         "id": "recipe005",
+//         "name": "Beef Stroganoff",
+//         "ingredients": ["beef sirloin", "onion", "mushrooms", "beef broth", "sour cream", "egg noodles"],
+//         "method": "1. Cook the egg noodles according to package instructions. 2. Heat oil in a large skillet over medium-high heat. 3. Add the beef and cook until browned. 4. Add the onion and mushrooms and cook until softened. 5. Add the beef broth and simmer for 10-15 minutes. 6. Stir in the sour cream and serve over the egg noodles. ",
+//         "rating": 4.2
+//       },}
+    

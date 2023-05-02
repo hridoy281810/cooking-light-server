@@ -1,0 +1,182 @@
+[
+    {
+      "id": "chef001",
+      "chef_name": "Ahmed Hossain",
+      "years_of_experience": 30,
+      "number_of_recipes": 100,
+      "likes": 1500,
+      "description": "Ahmed Hossain is a celebrity chef, restaurateur, and television personality. He has received numerous awards and accolades for his cooking skills and is known for his fiery personality in the kitchen.",
+      "chef_picture_url": "https://i.ibb.co/yPkby3M/chef1.jpg",
+      "recipes":[
+        {"_id": "recipe001",
+        "name": "Shorshe Ilish",
+        "ingredients": ["spaghetti", "ground beef", "onion", "garlic", "tomato sauce", "olive oil"],
+        "method": "1. Cook the spaghetti according to package instructions. 2. Heat olive oil in a large skillet over medium-high heat. 3. Add the ground beef and cook until browned. 4. Add the onion and garlic and cook until softened. 5. Add the tomato sauce and simmer for 10-15 minutes. 6. Serve the sauce over the spaghetti. ",
+        "rating": 4.7},
+        {
+          "_id": "recipe002",
+            "name": "Chicken Biryani",
+            "ingredients": ["chicken", "onion", "garlic", "ginger", "curry powder", "coconut milk"],
+            "method": "1. Heat oil in a large saucepan over medium heat. 2. Add the onion, garlic, and ginger and cook until the onion is softened. 3. Add the chicken and cook until browned. 4. Add the curry powder and stir to coat the chicken. 5. Add the coconut milk and simmer for 20-25 minutes. 6. Serve with rice. ",
+            "rating": 4.5
+        },
+        {
+          "_id": "recipe003",
+          "name": "Mutton Biryani",
+          "ingredients": ["salmon fillet", "olive oil", "lemon", "salt", "black pepper"],
+          "method": "1. Preheat grill to medium-high heat. 2. Brush the salmon fillet with olive oil. 3. Season with salt and black pepper. 4. Grill the salmon for 10-12 minutes, or until it flakes easily with a fork. 5. Squeeze lemon juice over the top before serving. ",
+          "rating": 4.9
+        }
+      ]
+    },
+    {
+      "id": "chef002",
+      "chef_name": "Fakhruddin Ahmed",
+      "years_of_experience": 35,
+      "number_of_recipes": 80,
+      "likes": 1200,
+      "description": "Fakhruddin Ahmed is a British chef and television personality. He is known for his healthy and sustainable approach to cooking, and has written numerous cookbooks and hosted several cooking shows.",
+      "chef_picture_url": "https://i.ibb.co/dkDB26L/chef2.jpg",
+      "recipes":[
+        {  "id": "recipe004",
+        "name": "Pesto Pasta",
+        "ingredients": ["pasta", "pesto sauce", "grated parmesan cheese", "cherry tomatoes", "olive oil"],
+        "method": "1. Cook the pasta according to package instructions. 2. Drain the pasta and return it to the pot. 3. Stir in the pesto sauce and cherry tomatoes. 4. Drizzle with olive oil and sprinkle with parmesan cheese. 5. Serve hot. ",
+        "rating": 4.3},
+        {
+          "id": "recipe005",
+          "name": "Beef Stroganoff",
+          "ingredients": ["beef sirloin", "onion", "mushrooms", "beef broth", "sour cream", "egg noodles"],
+          "method": "1. Cook the egg noodles according to package instructions. 2. Heat oil in a large skillet over medium-high heat. 3. Add the beef and cook until browned. 4. Add the onion and mushrooms and cook until softened. 5. Add the beef broth and simmer for 10-15 minutes. 6. Stir in the sour cream and serve over the egg noodles. ",
+          "rating": 4.2
+        },
+        {
+          "_id": "recipe006",
+          "name": "Grilled Salmon",
+          "ingredients": ["salmon fillet", "olive oil", "lemon", "salt", "black pepper"],
+          "method": "1. Preheat grill to medium-high heat. 2. Brush the salmon fillet with olive oil. 3. Season with salt and black pepper. 4. Grill the salmon for 10-12 minutes, or until it flakes easily with a fork. 5. Squeeze lemon juice over the top before serving. ",
+          "rating": 4.9
+        }
+      ]
+    },
+    {
+      "id": "chef003",
+      "chef_name": "Asad Latif",
+      "years_of_experience": 20,
+      "number_of_recipes": 60,
+      "likes": 800,
+      "description": "Asad Latif is an American chef, author, and television personality. She is known for her approachable recipes and relaxed entertaining style, and has written several bestselling cookbooks.",
+      "chef_picture_url": "https://i.ibb.co/NnzGnMq/chef3.jpg",
+      "recipes":[
+        {"_id": "recipe007",
+        "name": "Spaghetti Bolognese",
+        "ingredients": ["spaghetti", "ground beef", "onion", "garlic", "tomato sauce", "olive oil"],
+        "method": "1. Cook the spaghetti according to package instructions. 2. Heat olive oil in a large skillet over medium-high heat. 3. Add the ground beef and cook until browned. 4. Add the onion and garlic and cook until softened. 5. Add the tomato sauce and simmer for 10-15 minutes. 6. Serve the sauce over the spaghetti. ",
+        "rating": 4.7},
+        {
+          "_id": "recipe008",
+            "name": "Chicken Curry",
+            "ingredients": ["chicken", "onion", "garlic", "ginger", "curry powder", "coconut milk"],
+            "method": "1. Heat oil in a large saucepan over medium heat. 2. Add the onion, garlic, and ginger and cook until the onion is softened. 3. Add the chicken and cook until browned. 4. Add the curry powder and stir to coat the chicken. 5. Add the coconut milk and simmer for 20-25 minutes. 6. Serve with rice. ",
+            "rating": 4.5
+        },
+        {
+          "_id": "recipe009",
+          "name": "Grilled Salmon",
+          "ingredients": ["salmon fillet", "olive oil", "lemon", "salt", "black pepper"],
+          "method": "1. Preheat grill to medium-high heat. 2. Brush the salmon fillet with olive oil. 3. Season with salt and black pepper. 4. Grill the salmon for 10-12 minutes, or until it flakes easily with a fork. 5. Squeeze lemon juice over the top before serving. ",
+          "rating": 4.9
+        }
+      ]
+    },
+    {
+      "id": "chef004",
+      "chef_name": "Kiran Jethwa",
+      "years_of_experience": 25,
+      "number_of_recipes": 90,
+      "likes": 1000,
+      "description": "Kiran Jethwa is an American celebrity chef, restaurateur, and television personality. He is known for his bold and spicy Southwestern-style cooking, and has hosted several cooking shows.",
+      "chef_picture_url": "https://i.ibb.co/9y5ZFvf/chef4.jpg",
+      "recipes":[
+        {  "id": "recipe0010",
+        "name": "Pesto Pasta",
+        "ingredients": ["pasta", "pesto sauce", "grated parmesan cheese", "cherry tomatoes", "olive oil"],
+        "method": "1. Cook the pasta according to package instructions. 2. Drain the pasta and return it to the pot. 3. Stir in the pesto sauce and cherry tomatoes. 4. Drizzle with olive oil and sprinkle with parmesan cheese. 5. Serve hot. ",
+        "rating": 4.3},
+        {
+          "id": "recipe0011",
+          "name": "Beef Stroganoff",
+          "ingredients": ["beef sirloin", "onion", "mushrooms", "beef broth", "sour cream", "egg noodles"],
+          "method": "1. Cook the egg noodles according to package instructions. 2. Heat oil in a large skillet over medium-high heat. 3. Add the beef and cook until browned. 4. Add the onion and mushrooms and cook until softened. 5. Add the beef broth and simmer for 10-15 minutes. 6. Stir in the sour cream and serve over the egg noodles. ",
+          "rating": 4.2
+        },
+        {
+          "_id": "recipe0012",
+          "name": "Grilled Salmon",
+          "ingredients": ["salmon fillet", "olive oil", "lemon", "salt", "black pepper"],
+          "method": "1. Preheat grill to medium-high heat. 2. Brush the salmon fillet with olive oil. 3. Season with salt and black pepper. 4. Grill the salmon for 10-12 minutes, or until it flakes easily with a fork. 5. Squeeze lemon juice over the top before serving. ",
+          "rating": 4.9
+        }
+      ]
+    },
+    {
+      "id": "chef005",
+      "chef_name": "Tony Culinary",
+      "years_of_experience": 15,
+      "number_of_recipes": 50,
+      "likes": 700,
+      "description": "Tony Culinary is an English food writer, journalist, and television personality. She is known for her approachable and indulgent recipes, and has written several bestselling cookbooks.",
+      "chef_picture_url": "https://i.ibb.co/XVZgHw3/chef5.jpg",
+      "recipes":[
+        {"_id": "recipe0013",
+        "name": "Spaghetti Bolognese",
+        "ingredients": ["spaghetti", "ground beef", "onion", "garlic", "tomato sauce", "olive oil"],
+        "method": "1. Cook the spaghetti according to package instructions. 2. Heat olive oil in a large skillet over medium-high heat. 3. Add the ground beef and cook until browned. 4. Add the onion and garlic and cook until softened. 5. Add the tomato sauce and simmer for 10-15 minutes. 6. Serve the sauce over the spaghetti. ",
+        "rating": 4.7},
+        {
+          "_id": "recipe0014",
+            "name": "Chicken Curry",
+            "ingredients": ["chicken", "onion", "garlic", "ginger", "curry powder", "coconut milk"],
+            "method": "1. Heat oil in a large saucepan over medium heat. 2. Add the onion, garlic, and ginger and cook until the onion is softened. 3. Add the chicken and cook until browned. 4. Add the curry powder and stir to coat the chicken. 5. Add the coconut milk and simmer for 20-25 minutes. 6. Serve with rice. ",
+            "rating": 4.5
+        },
+        {
+          "_id": "recipe0015",
+          "name": "Grilled Salmon",
+          "ingredients": ["salmon fillet", "olive oil", "lemon", "salt", "black pepper"],
+          "method": "1. Preheat grill to medium-high heat. 2. Brush the salmon fillet with olive oil. 3. Season with salt and black pepper. 4. Grill the salmon for 10-12 minutes, or until it flakes easily with a fork. 5. Squeeze lemon juice over the top before serving. ",
+          "rating": 4.9
+        }
+      ]
+    },
+    {
+      "id": "chef006",
+      "chef_name": "Manik Miah",
+      "years_of_experience": 20,
+      "number_of_recipes": 70,
+      "likes": 900,
+      "description": "Manik Miah was an American chef, author, and television personality. He was known for his adventurous spirit and his willingness to try any type of food, and hosted several popular travel and food shows.",
+      "chef_picture_url": "https://i.ibb.co/qmcfxBh/chef6.jpg",
+      "recipes":[
+        {  "id": "recipe0016",
+        "name": "Pesto Pasta",
+        "ingredients": ["pasta", "pesto sauce", "grated parmesan cheese", "cherry tomatoes", "olive oil"],
+        "method": "1. Cook the pasta according to package instructions. 2. Drain the pasta and return it to the pot. 3. Stir in the pesto sauce and cherry tomatoes. 4. Drizzle with olive oil and sprinkle with parmesan cheese. 5. Serve hot. ",
+        "rating": 4.3},
+        {
+          "id": "recipe0017",
+          "name": "Beef Stroganoff",
+          "ingredients": ["beef sirloin", "onion", "mushrooms", "beef broth", "sour cream", "egg noodles"],
+          "method": "1. Cook the egg noodles according to package instructions. 2. Heat oil in a large skillet over medium-high heat. 3. Add the beef and cook until browned. 4. Add the onion and mushrooms and cook until softened. 5. Add the beef broth and simmer for 10-15 minutes. 6. Stir in the sour cream and serve over the egg noodles. ",
+          "rating": 4.2
+        },
+        {
+          "_id": "recipe0018",
+          "name": "Grilled Salmon",
+          "ingredients": ["salmon fillet", "olive oil", "lemon", "salt", "black pepper"],
+          "method": "1. Preheat grill to medium-high heat. 2. Brush the salmon fillet with olive oil. 3. Season with salt and black pepper. 4. Grill the salmon for 10-12 minutes, or until it flakes easily with a fork. 5. Squeeze lemon juice over the top before serving. ",
+          "rating": 4.9
+        }
+      ]
+    }
+]
